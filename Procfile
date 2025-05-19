@@ -1,0 +1,1 @@
+worker: python love_baghdad_bot.py
